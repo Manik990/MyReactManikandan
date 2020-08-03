@@ -1,0 +1,55 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.topheader {
+  background: #fff;
+}
+nav {
+  background: #fff !important;
+}
+.nav-link {
+  font-size: 14px;
+  color: #000000 !important;
+  margin-left: 10px !important;
+}
+.redbox {
+  background: #dc3545;
+  height: 150px;
+  border-radius: 5px;
+}
+.redbox {
+  margin-top: 20px;
+  padding: 20px;
+}
+.redbox img {
+  display: block;
+  margin: auto;
+}
+.redbox span {
+  display: block;
+  color: #ffffff;
+  text-align: center;
+  font-size: 20px;
+  padding-top: 15px;
+}
+h1 {
+  text-align: center;
+  padding-top: 20px;
+}
+.pg {
+  text-align: center;
+}
+.formbox {
+  border: #ccc solid 1px;
+  padding: 20px;
+  margin-top: 25px;
+}
+.textbox {
+  border-bottom: #ccc solid 1px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  width: 100%;
+  margin-top: 20px;
+}
